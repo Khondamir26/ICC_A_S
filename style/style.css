@@ -125,17 +125,17 @@ h1 {
         display: block;
     }
 
-    .main__slider-info {
+    /* .main__slider-info {
         margin-top: 25px;
-    }
+    } */
 
-    .main__slider-image {
+    /* .main__slider-image {
         height: 50vh;
-    }
+    } */
 
-    .main__tabs-info {
+    /* .main__tabs-info {
         margin-top: 20px;
-    }
+    } */
 }
 
 .header__content {
@@ -319,6 +319,7 @@ h1 {
     font-family: var(--ps400);
     line-height: 18px;
     margin-bottom: 14px;
+    text-align: center;
 }
 
 .main__tabs-text {
@@ -327,6 +328,7 @@ h1 {
     font-size: 18px;
     line-height: 24px;
     text-align: justify;
+    margin-bottom: 14px;
 }
 
 .main__tabs-btn {
